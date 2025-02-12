@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kahenyamercy" alt="kahenyamercy" /></a> </p>
 
-- 🔭 I’m currently working on [Laundry-Zenith](https://github.com/kahenyamercy/HiveMind)
+- 🔭 I’m currently working on [Hive Mind](https://github.com/kahenyamercy/HiveMind)
 
 - 🌱 I’m currently learning **Python**
 
